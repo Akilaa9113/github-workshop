@@ -1,0 +1,2 @@
+#This is for practice of github
+*This is how you create a github file using github user interface :)
